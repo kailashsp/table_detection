@@ -1,0 +1,16 @@
+table-transformer/
+table-detect-env/
+tranformers/
+words_dir/
+test/
+Fine_tuning_table_transformer_v1.ipynb
+*.png
+pharam_dataloader.py/
+Tatr-model/
+models/
+lightning_logs/
+dataset/
+coco_dataset/
+convert_yolo2coco.ipynb
+assignment.md
+pharam_dataloader.py
